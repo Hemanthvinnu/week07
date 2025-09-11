@@ -1,4 +1,5 @@
 # week07/.github/workflows/frontend_ci.yml
+# SIT722 manual trigger for frontend
 
 name: Frontend CI - Build & Push Image
 
