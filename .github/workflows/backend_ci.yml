@@ -1,3 +1,5 @@
+# Re-trigger CI to rebuild images after ACR recreation
+
 # week07/.github/workflows/backend_ci.yml
 # CI pipeline to test backend services and push Docker images to ACR
 
