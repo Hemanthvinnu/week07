@@ -1,5 +1,4 @@
 # week07/.github/workflows/frontend_ci.yml
-# Triggered frontend workflow manually on 11 Sep
 
 name: Frontend CI - Build & Push Image
 
